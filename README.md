@@ -1,2 +1,1 @@
-# restaurant_manager
-Restaurant Manager
+# Restaurant Manager
